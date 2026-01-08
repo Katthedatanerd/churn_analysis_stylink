@@ -1,4 +1,4 @@
-<img width="662" height="80" alt="image" src="https://github.com/user-attachments/assets/1a59f47d-ec5b-4ed0-88a0-125193c4f916" /># churn_analysis_stylink
+CHURN_ANALYSIS_STYLINK
 A data science project that predicts influencer churn in Germany’s e-commerce affiliate marketing sector to help companies optimize influencer retention strategies.
 ## 📌 Project description
 This project focuses on predicting influencer churn in the German e-commerce affiliate marketing ecosystem using machine learning techniques. By applying logistic regression and decision tree models, the study identifies key factors driving influencer churn and provides actionable insights to support data-driven retention strategies for a German company.
